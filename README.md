@@ -56,7 +56,7 @@
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=246p" />
+    <img src="https://github-readme-stats.vercel.app/api?username=minjoonkim01" />
     <br>
     <br>
     <!-- BOJ 
