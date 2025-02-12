@@ -56,8 +56,9 @@
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=minjoonkim01" />
+    <img src="https://github-readme-stats.vercel.app/api?username=minjoonkim01&count_private=true" />
     <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjooonkim01&hide=html" />
     <br>
     <!-- BOJ 
 	<br>
