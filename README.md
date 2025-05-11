@@ -47,7 +47,7 @@
 		<img src="https://img.shields.io/badge/Github.io-222222?style=for-the-badge&logo=github&logoColor=white" />
 	</a>
 	-->
-    <a href="https://www.instagram.com/minjunkinn/">
+    <a href="https://www.instagram.com/minjoonkim01/">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
 	<br>
