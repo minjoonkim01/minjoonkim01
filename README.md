@@ -13,13 +13,13 @@
     <img src="https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white" />
     <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" />
     <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <br>
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=246p" />-->
 </div>
 <br>
 
-
+<!--
 <div align=center>
 	<p>Tools</p>
 </div>
@@ -31,6 +31,7 @@
 
 </div>
 <br>
+-->
 
 <div align=center>
 	<p>Contact</p>
