@@ -36,7 +36,7 @@
 	<p>Contact</p>
 </div>
 <div align=center>
-	<a href="https://www.linkedin.com/in/246p/">
+	<a href="https://www.linkedin.com/in/minjoonkim01/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="mailto:0016kmj@u.sogang.ac.kr">
